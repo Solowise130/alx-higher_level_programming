@@ -1,6 +1,6 @@
-Python - Input/Output
+Python - Input/Output.
 This project emphasizes on file Reading/Writing, JSON, and data structures in Python.
-Below are the files used in this project and their expected outputs.
+Below are the files used and their expected outputs.
 
 0-read_file.py - Writes a function that reads a text file (UTF8) and prints it to stdout. Prototype: def read_file(filename=""):
 
