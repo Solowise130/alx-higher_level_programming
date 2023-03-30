@@ -1,3 +1,3 @@
 #!/bin/bash
-# Takes in a URL nad displays all HTTP methods that the server will accept
+# curl to display all HTTP methods the server accepts
 curl -sI "$1" | grep "Allow" | cut -d " " -f 2-
